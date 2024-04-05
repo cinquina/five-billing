@@ -8,7 +8,7 @@ FiveM **ESX** and **QBCore** billing script inspired on **NoPixel 4.0** server.
 [Tebex Store](https://fivedevelopments.tebex.io/)
 
 ## 🤝 Support
-- [Documentation Page]((https://five-developments.gitbook.io/scripts/scripts/five-billing)
+- [Documentation Page](https://five-developments.gitbook.io/scripts/scripts/five-billing)
 - [Discord Server](https://discord.gg/547nKvQhZ7)
 
 ## 💻 Developer
